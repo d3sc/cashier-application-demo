@@ -29,6 +29,10 @@ Run the database migrations and database seeding (**Set the database connection 
 
     php artisan migrate --seed
 
+create the symbolic link Storage (**Set the public storage link in storage before start**)
+
+    php artisan storage:link
+
 Start the local development server
 
     php artisan serve
