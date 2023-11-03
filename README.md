@@ -38,3 +38,13 @@ Start the local development server
     php artisan serve
 
 You can now access the server at http://localhost:8000
+
+for account login:
+
+    ### Admin
+    email: admin@example.com
+    password: password
+
+    ### User
+    email: user@example.com
+    password: password
